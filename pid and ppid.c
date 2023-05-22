@@ -1,8 +1,4 @@
-#include <unistd.h>
-#include <stdio.h>
-#include <sys/types.h>
-
-
+#include "headers.h"
 
 /**
  * printing the process id and the parent pid
