@@ -5,6 +5,10 @@
  * at the start of each line 
  */
 
+/**
+ * now we know waht to do
+*/
+
 int main (int ac, char **av)
 {
     char *buffer = NULL;
